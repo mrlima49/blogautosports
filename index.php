@@ -19,8 +19,6 @@ require_once "./functions/pages.php";
         <a class="nav-link" href="?page=home">Home</a>
         <a class="nav-link" href="?page=categorias">Categorias</a>
         <a class="nav-link" href="?page=admin">Admin</a>
-        <a class="nav-link" href="?page=cadastro">Cadastro</a>
-        <a class="nav-link" href="?page=login">Login</a>
     </nav>
     </header>
     <div class="container">
